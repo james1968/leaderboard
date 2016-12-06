@@ -1,8 +1,8 @@
-##Meteor Leadboard tutorial for the Makers Academy Final Projects week.
+#Meteor Leadboard tutorial for the Makers Academy Final Projects week.
 
-#Initial commit after running 
+##Initial commit:
 
-`meteor create leaderboard`
+1) Ran `meteor create leaderboard`
 
-and added README.md.
+2) Added README.md.
 
